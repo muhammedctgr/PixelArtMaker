@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: aqua;
+  }
+  
+  h1 {
+    font-family: Tapestry;
+    font-size: 70px;
+    margin: 0.2em;
+  }
+  
+  h2 {
+    margin: 0.8em 0.8em;
+    font-family: Tapestry;
+  }
+  
+  table,
+  tr,
+  td{
+    border: 2px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  tr {
+    height: 20px;
+  }
+  
+  td {
+    width: 20px;
+  }
+  
+  input[type="number"] {
+    width: 3em;
+  }
